@@ -19,7 +19,7 @@
     <works>
         <work>
             <serial>true</serial>
-            <rate>unlimited</rate>
+            <rate>1</rate>
             <weights>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</weights>
         </work>
     </works>
