@@ -19,19 +19,7 @@
     <works>
         <work>
             <serial>false</serial>
-            <time>600</time>
-            <rate>1</rate>
-            <weights>0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</weights>
-        </work>
-        <work>
-            <serial>false</serial>
-            <time>600</time>
-            <rate>1</rate>
-            <weights>0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</weights>
-        </work>
-        <work>
-            <serial>false</serial>
-            <time>600</time>
+            <time>240</time>
             <rate>1</rate>
             <weights>0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</weights>
         </work>
